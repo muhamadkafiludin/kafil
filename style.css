@@ -1,0 +1,44 @@
+.bg-header{
+    background-image: url(./images/banner-bg.png);
+    background-size: cover;
+    height: 100vh;
+}
+.header-title{
+    position: relative;
+    text-transform:uppercase;
+    top: 40%;
+}
+.header-description{
+    position: relative;
+    top: 40%;
+}
+.banner-text{
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.img1{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.menu-bar{
+    position: absolute;
+    bottom: 10%;
+    margin-left: 100PX;
+}
+.h1{
+    font-weight: 700;
+    color: yellowgreen;
+    font-size: 60px;
+}
+.h2{
+    color: white;
+    font-weight: 700;
+    font-size: 50px;
+}
+.services-taitel{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 20px;
+}
