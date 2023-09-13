@@ -1,6 +1,6 @@
 .bg-header{
     background-image: url(./images/banner-bg.png);
-    /* background-size: cover; */
+    background-size: cover;
     height: 100vh;
 }
 .header-title{
